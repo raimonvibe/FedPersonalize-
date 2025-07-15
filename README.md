@@ -4,7 +4,7 @@
 
 ## 🚀 Live Demo
 
-- **Frontend (Live):** https://fedpersonalize-1.onrender.com/
+🔗 Live demo: [https://fedpersonalize-1.onrender.com](https://fedpersonalize-1.onrender.com)
 - **Backend API:** Ready for Render deployment
 
 ## 📋 Overview
