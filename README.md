@@ -55,7 +55,7 @@ FedPersonalize is a novel federated learning AI system that enables real-time pe
 | **Region** | `Oregon (US West)` or closest to your users |
 | **Branch** | `main` |
 | **Root Directory** | `fedpersonalize-backend` |
-| **Build Command** | `pip install poetry && poetry config virtualenvs.create false && poetry install --no-dev` |
+| **Build Command** | `pip install poetry && poetry config virtualenvs.create false && poetry install --only=main` |
 | **Start Command** | `poetry run uvicorn app.main:app --host 0.0.0.0 --port $PORT` |
 
 **Step 3: Environment Variables**
@@ -120,7 +120,7 @@ services:
     env: python
     region: oregon
     plan: starter
-    buildCommand: pip install poetry && poetry config virtualenvs.create false && poetry install --no-dev
+    buildCommand: pip install poetry && poetry config virtualenvs.create false && poetry install --only=main
     startCommand: poetry run uvicorn app.main:app --host 0.0.0.0 --port $PORT
     healthCheckPath: /healthz
     envVars:
