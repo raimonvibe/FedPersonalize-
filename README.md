@@ -4,7 +4,7 @@
 
 ## 🚀 Live Demo
 
-- **Frontend (Live):** https://flower-ai-app-mpri8e6g.devinapps.com/
+- **Frontend (Live):** [https://flower-ai-app-mpri8e6g.devinapps.com/](https://fedpersonalize-1.onrender.com/)
 - **Backend API:** Ready for Render deployment
 
 ## 📋 Overview
