@@ -1,6 +1,6 @@
 # FedPersonalize - Federated Learning for IoT Personalization
 
-![FedPersonalize Dashboard](https://app.devin.ai/attachments/97a37c32-e14b-45a4-8b69-55ed61759967/flower_ai_app_104431.png)
+![FedPersonalize Dashboard](fed.png)
 
 ## 🚀 Live Demo
 
